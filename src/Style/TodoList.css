@@ -1,0 +1,14 @@
+.TodoList{
+    width: 90%;
+    height: 80vh;
+    background-color: var(--white);
+    list-style: none;
+    overflow-y: scroll;
+    margin: 0;
+}
+
+.TodoList > ul{
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
