@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +41,8 @@
     "@dnd-kit/core": "^6.0.5",
     "@dnd-kit/sortable": "^7.0.1",
     "chart.js": "^3.8.0",
+    "gh-pages": "^4.0.0",
     "react-chartjs-2": "^4.3.1"
-  }
+  },
+  "homepage": "http://soni2.github.io/ToDo_dnd"
 }
