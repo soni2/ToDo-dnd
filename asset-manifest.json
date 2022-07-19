@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ToDo_dnd/static/css/main.c7b0aa75.css",
+    "main.js": "/ToDo_dnd/static/js/main.f0f1b325.js",
+    "static/media/trash-red.svg": "/ToDo_dnd/static/media/trash-red.2aa1935640e74e49ab4a.svg",
+    "static/media/trash.svg": "/ToDo_dnd/static/media/trash.f77bdc3d259761eebba9.svg",
+    "index.html": "/ToDo_dnd/index.html",
+    "static/media/check-color.svg": "/ToDo_dnd/static/media/check-color.e32e2003d7395c5bb25b.svg",
+    "static/media/check-grey.svg": "/ToDo_dnd/static/media/check-grey.c4f5ca479fa9c65e411f.svg",
+    "main.c7b0aa75.css.map": "/ToDo_dnd/static/css/main.c7b0aa75.css.map",
+    "main.f0f1b325.js.map": "/ToDo_dnd/static/js/main.f0f1b325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b0aa75.css",
+    "static/js/main.f0f1b325.js"
+  ]
+}
